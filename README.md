@@ -172,8 +172,8 @@ streamlit run app.py
 - **Host**: localhost
 - **Port**: 7690
 - **Database**: expansion
-- **Username**: neo4j
-- **Password**: 12345678
+- **Username**: ********
+- **Password**: ********
 
 ### OpenAI Configuration
 - **Model**: gpt-4o-mini
@@ -197,18 +197,6 @@ streamlit run app.py
 - **Statistical Dashboard**: Entity and relationship analytics
 - **Export Capabilities**: Graph data export in multiple formats
 - **Snapshot Management**: Version control for graph states
-
-## 📊 Sample Results
-
-### Entity Statistics
-- **Drugs**: 15,000+ entities
-- **Diseases**: 8,000+ entities  
-- **Genes/Proteins**: 12,000+ entities
-
-### Relationship Types
-- **Drug-Disease**: 5,000+ associations
-- **Drug-Target**: 3,000+ interactions
-- **Protein-Disease**: 4,000+ associations
 
 ## 🛠️ Development
 
@@ -264,7 +252,6 @@ If you use this work in your research, please cite:
   author={Kartikay},
   year={2025},
   url={https://github.com/kartikay8055/Expansion-of-pre-existing-Knowledge-Graphs-using-LLMs},
-  institution={Your Institution}
 }
 ```
 
